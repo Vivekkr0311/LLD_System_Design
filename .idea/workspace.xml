@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86286f62-dd8f-4ff0-bf15-9651eab5a08f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/GameBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Jumper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LLD_System_Design.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/PlaySnakeAndLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/PlaySnakeAndLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/PlaySnakeAndLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/target/classes/com/Vivek/PlaySnakeAndLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/target/classes/com/Vivek/PlaySnakeAndLadder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,41 +24,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Vivekkr0311"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vivekkr0311&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vivekkr0311/LLD_System_Design.git",
-    "accountId": "1db49240-8beb-4764-9d6e-59c0c58ed540"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vivekkr0311/LLD_System_Design.git&quot;,
+    &quot;accountId&quot;: &quot;1db49240-8beb-4764-9d6e-59c0c58ed540&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2nLJT5H4D5gi1sj2VinHjYmBHZp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.PlaySnakeAndLadder.executor": "Run",
-    "Maven.SnakeAndLadder [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/vivek/IdeaProjects/LLD_System_Design",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.47586206"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlaySnakeAndLadder.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SnakeAndLadder [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vivek/IdeaProjects/LLD_System_Design&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47586206&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
