@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86286f62-dd8f-4ff0-bf15-9651eab5a08f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Jumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LLD_System_Design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeAndLadder/src/main/java/com/Vivek/PlaySnakeAndLadder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vivekkr0311"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vivekkr0311/LLD_System_Design.git",
+    "accountId": "1db49240-8beb-4764-9d6e-59c0c58ed540"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2nLJT5H4D5gi1sj2VinHjYmBHZp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.PlaySnakeAndLadder.executor": "Run",
+    "Maven.SnakeAndLadder [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vivek/IdeaProjects/LLD_System_Design",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.47586206"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PlaySnakeAndLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Vivek.PlaySnakeAndLadder" />
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Vivek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlaySnakeAndLadder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86286f62-dd8f-4ff0-bf15-9651eab5a08f" name="Changes" comment="" />
+      <created>1728746426622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728746426622</updated>
+    </task>
+    <servers />
+  </component>
+</project>
