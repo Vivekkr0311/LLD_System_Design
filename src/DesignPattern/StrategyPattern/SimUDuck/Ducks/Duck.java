@@ -1,7 +1,7 @@
-package SimUDuck.Ducks;
+package DesignPattern.StrategyPattern.SimUDuck.Ducks;
 
-import SimUDuck.BehaviourInterfaces.FlyingBehaviour;
-import SimUDuck.BehaviourInterfaces.QuackBehaviour;
+import DesignPattern.StrategyPattern.SimUDuck.BehaviourInterfaces.FlyingBehaviour;
+import DesignPattern.StrategyPattern.SimUDuck.BehaviourInterfaces.QuackBehaviour;
 
 public abstract class Duck {
     FlyingBehaviour flyingBehaviour;

@@ -1,7 +1,7 @@
-package SimUDuck;
+package DesignPattern.StrategyPattern.SimUDuck;
 
-import SimUDuck.Ducks.Duck;
-import SimUDuck.Ducks.MallardDuck;
+import DesignPattern.StrategyPattern.SimUDuck.Ducks.Duck;
+import DesignPattern.StrategyPattern.SimUDuck.Ducks.MallardDuck;
 
 public class MiniDuckSimulator {
 
