@@ -1,29 +1,17 @@
-### IntelliJ IDEA ###
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IntelliJ build output
 out/
-!src/ParkingLotSystem/main/**/out/
-!src/ParkingLotSystem/test/**/out/
-.idea
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!src/ParkingLotSystem/main/**/bin/
-!src/ParkingLotSystem/test/**/bin/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Maven
+target/
 
-### VS Code ###
-.vscode/
+# Gradle
+.gradle/
+build/
 
-### Mac OS ###
+# OS files
 .DS_Store
+Thumbs.db
